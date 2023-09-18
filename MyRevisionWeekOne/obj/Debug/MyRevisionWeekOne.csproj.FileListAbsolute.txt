@@ -1,0 +1,7 @@
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\MyRevisionWeekOne\MyRevisionWeekOne\bin\Debug\MyRevisionWeekOne.exe.config
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\MyRevisionWeekOne\MyRevisionWeekOne\bin\Debug\MyRevisionWeekOne.exe
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\MyRevisionWeekOne\MyRevisionWeekOne\bin\Debug\MyRevisionWeekOne.pdb
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\MyRevisionWeekOne\MyRevisionWeekOne\obj\Debug\MyRevisionWeekOne.csproj.AssemblyReference.cache
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\MyRevisionWeekOne\MyRevisionWeekOne\obj\Debug\MyRevisionWeekOne.csproj.CoreCompileInputs.cache
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\MyRevisionWeekOne\MyRevisionWeekOne\obj\Debug\MyRevisionWeekOne.exe
+C:\Users\A.M\Desktop\AUCA UNDERGRADUATE\COURSE NOTE\YEAR TWO SEMESTER ONE\DOTNET\LIVECLASS\MyRevisionWeekOne\MyRevisionWeekOne\obj\Debug\MyRevisionWeekOne.pdb
